@@ -1,4 +1,6 @@
 vscode/
-vs/
+../vs/
 bin/
 obj/
+appsettings.json
+*.csproj*
